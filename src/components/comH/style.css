@@ -1,0 +1,24 @@
+.grey-issue-block{
+    display: flex;
+    background: rgb(51, 51, 51);
+    color: darkgray;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+}
+
+.grey-issue-block-left{
+    margin-right:50%;
+}
+
+.grey-issue-block-right{
+    display: flex;
+    width: 300px;
+}
+
+.free{
+    text-align: left;
+    font-size:large;
+}
+

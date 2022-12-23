@@ -1,0 +1,11 @@
+.black-issue{
+    background: rgb(60, 60, 60);
+    height: 90px;
+    width: 110px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.issue{
+    width: 100%;
+}

@@ -1,0 +1,43 @@
+.issue-third-block{
+    width: 18%;
+    height: 500px;
+    margin-top: 2%;
+    text-align: left;
+    background:rgb(18, 18, 18);
+}
+
+.h3-part{
+    color: darkgrey;
+    margin-bottom: 0px;
+    
+}
+
+.hr-h3-part{
+    background-color: darkgrey;
+    border: none;
+    height: 1px;
+    margin-bottom: 50px;
+    
+}
+
+.text-block-3{
+    color:darkgrey ;
+    font-size: medium;
+}
+
+.name{
+    color: orange;
+    text-decoration: none;
+}
+
+.time{
+    color: orange;
+    text-decoration: none;
+    font-size: small;
+}
+
+.AnotherOneHr{
+    border: none;
+    background-color:rgb(60, 60, 60);
+    height: 1px;
+}

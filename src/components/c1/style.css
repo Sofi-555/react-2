@@ -1,0 +1,34 @@
+button{
+    border: 0ch;
+    color: rgb(253, 97, 41);
+    background: rgb(255, 255, 255);
+}
+
+
+
+.issue{
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    width: 30%;
+    height: 10%;
+    text-align: left;
+
+
+}
+
+p{
+    font-size: small;
+    
+
+}
+
+h1{
+    font-size: medium;
+   
+}
+
+.read{
+    padding-left: 50%;
+    
+}

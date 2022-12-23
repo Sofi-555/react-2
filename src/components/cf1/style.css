@@ -1,0 +1,35 @@
+.issue-block1{
+    width: 18%;
+    margin-top: 2%;
+    text-align: left;
+    background:rgb(18, 18, 18);
+    height: 500px;
+    margin-left: 6.5%;
+}
+
+.issue-block{
+    text-decoration: none;
+    color: orange;
+}
+
+.hr-h-p-block{
+    background-color: darkgrey;
+    border: none;
+    height: 1px;
+    margin-bottom: 50px;
+    
+}
+
+.h3FL1{
+    color: darkgrey;
+    margin-bottom: 0px;
+    
+}
+
+
+hr{
+    border: none;
+    background-color:rgb(60, 60, 60);
+    height: 1px;
+
+}

@@ -1,0 +1,114 @@
+.issue-block2{
+    width: 25%;
+    margin-top: 2%;
+    text-align: left;
+    background:rgb(18, 18, 18);
+    height: 500px;
+}
+
+
+.hrH1FL2{
+    background-color: darkgrey;
+    border: none;
+    height: 1px;
+    margin-bottom: 50px;
+    
+}
+
+.h3FL2{
+    color: darkgrey;
+    margin-bottom: 0px;
+    
+}
+
+.issueFL2Divs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.i2-1{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+
+.i2-2{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-3{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-4{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-5{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-6{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+
+
+
+.i2-7{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-8{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+.i2-9{
+    width: 80px;
+    height: 70px;
+    background: rgb(64, 64, 64);
+    border: 10px;
+    padding-bottom: 2%;
+    margin-left: 3%;
+}
+
+

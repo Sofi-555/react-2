@@ -1,0 +1,10 @@
+.white-block{
+    width: 100%;
+    height: 100px;
+    background: rgb(255, 255, 255);
+}
+
+
+.white-part{
+    margin-top: 5%;
+}
